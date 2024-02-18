@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">persons</string>
+    <string name="details_format">Name: %1$s\nSurname: %2$s\nPhone: %3$s\nAddress: %4$s\nWorkplace: %5$s</string>
+    <string name="not_available">Not available</string>
+    <string name="details_not_found">Details not found for: %1$s</string>
+</resources>
